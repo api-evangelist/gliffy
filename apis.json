@@ -1,0 +1,89 @@
+{
+    "name": "Gliffy",
+    "description": "Make UML diagrams, flowcharts, wireframes and more. Our diagramming software and visual communication tools improve team collaboration and workflow.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/413-gliffy-hq.jpg",
+    "tags": [
+        "api provider",
+        "charts",
+        "diagram",
+        "diagramming",
+        "diagrams",
+        "have api",
+        "office"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gliffy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gliffy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/413-gliffy-hq.jpg",
+            "humanURL": "http:\/\/www.gliffy.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gliffy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gliffy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gliffy.com\/"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/www.gliffy.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.gliffy.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.gliffy.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gliffy"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gliffy"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.gliffy.com\/products\/online\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "sales@gliffy.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@gliffy.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.gliffy.com\/go\/commerce\/index"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gliffy"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gliffy.com"
+        }
+    ]
+}
